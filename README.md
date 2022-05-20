@@ -7,7 +7,7 @@ This project was carried out under a module, Safety Critical Systems, in the Mas
 Saﬁr Mohammad Shaikh, Kshitij Yelpale, Faiz Usmani, Shubham Girdhar, Asad Ahmed
 
 ## Technologies Used:
-* Language: JavaScript
+* Language: JavaScript, Java
 * Middleware Framework: JHipster
 * FrontEnd: Angular, HTML5, CSS3
 * BackEnd: Spring Boot
